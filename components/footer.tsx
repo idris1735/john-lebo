@@ -9,6 +9,7 @@ const footerLinks = {
   ],
   engage: [
     { label: "Leadership Philosophy", href: "#philosophy" },
+    { label: "Photo Gallery", href: "#gallery" },
     { label: "Get Involved", href: "#get-involved" },
     { label: "Become a Volunteer", href: "#volunteer-form" },
     { label: "Community Feedback", href: "#contact" },

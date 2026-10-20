@@ -3,6 +3,7 @@ import { AchievementsSection } from "@/components/achievements-section"
 import { DevelopmentPlanSection } from "@/components/development-plan-section"
 import { Footer } from "@/components/footer"
 import { GetInvolvedSection } from "@/components/get-involved-section"
+import { GallerySection } from "@/components/gallery-section"
 import { Header } from "@/components/header"
 import { HeroSection } from "@/components/hero-section"
 import { LeadershipPhilosophySection } from "@/components/leadership-philosophy-section"
@@ -18,6 +19,7 @@ export default function Home() {
       <AchievementsSection />
       <DevelopmentPlanSection />
       <LeadershipPhilosophySection />
+      <GallerySection />
       <GetInvolvedSection />
       <Footer />
     </main>

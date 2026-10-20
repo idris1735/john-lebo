@@ -20,6 +20,8 @@ next-dev.err.log
 
 # local tooling
 .claude/
+.tmp/
+WhatsApp Unknown *.zip
 
 # env files
 .env*

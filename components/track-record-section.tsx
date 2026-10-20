@@ -46,7 +46,7 @@ const achievements = [
 ]
 
 export function TrackRecordSection() {
-  const sectionRef = useRef<HTMLSection>(null)
+  const sectionRef = useRef<HTMLElement>(null)
 
   useEffect(() => {
     const observer = new IntersectionObserver(
